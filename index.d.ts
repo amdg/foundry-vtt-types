@@ -38,7 +38,6 @@ import './types/applications/placeables/placeablesHud';
 
 import './types/applications/sidebar/applications/actorDirectory';
 import './types/applications/sidebar/applications/chatLog';
-import './types/applications/sidebar/applications/clientSettings';
 import './types/applications/sidebar/applications/combatTracker';
 import './types/applications/sidebar/applications/compendiumDirectory';
 import './types/applications/sidebar/applications/itemDirectory';
@@ -48,6 +47,7 @@ import './types/applications/sidebar/applications/playlistDirectory';
 import './types/applications/sidebar/applications/rollTableDirectory';
 import './types/applications/sidebar/applications/sceneDirectory';
 import './types/applications/sidebar/applications/settings';
+import './types/applications/sidebar/applications/settingsConfig';
 
 import './types/applications/sidebar/sidebar';
 import './types/applications/sidebar/sidebarDirectory';
